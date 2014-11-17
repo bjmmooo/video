@@ -1,0 +1,5 @@
+{
+	"dependencies" : {
+		" peerjs " : " ^ 0.3.14 "
+	}
+}
